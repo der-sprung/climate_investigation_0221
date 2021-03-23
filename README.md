@@ -12,3 +12,8 @@ Sydney weather station data, recorded every day.
 *mauna_loa_co2_levels.csv* - 
 Manua Loa CO2 density in the air, recorded monthly.
 
+*billion_clean.csv* - 
+Clean dataset of billion dollar weather events, ready for Tableau.
+
+*Florida.csv* - 
+Florida weather data, to be cleaned into yearly averages of Precipitation & Temperature.
